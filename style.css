@@ -1,0 +1,36 @@
+.all{
+    background:#D4D4D4;
+    width:220px;
+    padding:20px;
+    text-align: center;
+ }
+.box{
+   width:200px;
+   height:20px;
+   padding:10px;
+   padding-bottom:40px;
+}
+.purple{
+   background:#CEA8F5;
+ }
+.blue{
+   background:#A1ADF5;
+ }
+.cyan{
+   background:#9AEAF5;
+ }
+.green{
+   background:#7FF585;
+ }
+.yellow{
+   background:#EFF590;
+ }
+.orange{
+   background:#F5C68B;
+ }
+.red{
+   background:#F59592;
+ }
+p{
+   color: whitesmoke;
+ }
